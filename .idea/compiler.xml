@@ -13,4 +13,9 @@
       <module name="Tecnicas_Reto11" target="17" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Tecnicas_Reto11" options="--add-exports jdk.jfr/jdk.jfr.internal.consumer=com.example.tecnicas_reto11" />
+    </option>
+  </component>
 </project>

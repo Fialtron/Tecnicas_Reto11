@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.tecnicas_reto11/com.example.tecnicas_reto11.HelloApplication
+                            <mainClass>com.example.tecnicas_reto11/com.example.tecnicas_reto11.MainApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
